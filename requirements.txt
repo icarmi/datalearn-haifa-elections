@@ -1,0 +1,9 @@
+numpy
+pandas
+dovpanda
+sklearn
+matplotlib
+networkx
+community
+cvxpy
+plotly
